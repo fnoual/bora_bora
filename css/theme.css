@@ -1,0 +1,14 @@
+.header-container {
+  background-color:#ce2e2e;
+}
+@font-face {
+font-family: "Droid";
+src: url("../fonts/droid.ttf");
+}
+
+.arb-btn {
+  font-family: "Droid",sans-serif;
+}
+.btn-rnd {
+  border-radius: 35px 35px 35px 35px !important;
+}
